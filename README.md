@@ -19,3 +19,6 @@ This repository records my learning journey in GitHub, Python, AI and smart manu
 - Learned pull request
 - Learned merge
 - Cloned my first repository to my computer
+- ### Sync Practice
+
+- This line was added on GitHub.com
