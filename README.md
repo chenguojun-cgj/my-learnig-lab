@@ -24,4 +24,4 @@ This repository records my learning journey in GitHub, Python, AI and smart manu
 - This line was added on GitHub.com
 ## Version Practice
 
-Version 3
+Version 2
