@@ -22,3 +22,6 @@ This repository records my learning journey in GitHub, Python, AI and smart manu
 - ### Sync Practice
 - This line was added on my computer
 - This line was added on GitHub.com
+## Version Practice
+
+Version 1
