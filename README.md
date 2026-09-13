@@ -18,3 +18,4 @@ This repository records my learning journey in GitHub, Python, AI and smart manu
 - Learned commit
 - Learned pull request
 - Learned merge
+- Cloned my first repository to my computer
